@@ -1,0 +1,10 @@
+H:\Projects\GHCL\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.dll
+H:\Projects\GHCL\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.pdb
+H:\Projects\GHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.csproj.CoreCompileInputs.cache
+H:\Projects\GHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.dll
+H:\Projects\GHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.pdb
+F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.dll
+F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.pdb
+F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.csproj.CoreCompileInputs.cache
+F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.dll
+F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.pdb
