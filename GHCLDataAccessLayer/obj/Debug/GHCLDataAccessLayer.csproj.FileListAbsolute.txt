@@ -16,3 +16,12 @@ F:\ghclmaster\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.cspro
 F:\ghclmaster\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.csproj.CopyComplete
 F:\ghclmaster\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.dll
 F:\ghclmaster\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.pdb
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.csprojAssemblyReference.cache
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.csproj.CoreCompileInputs.cache
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\bin\Debug\GHCLDataAccessLayer.dll
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\bin\Debug\GHCLDataAccessLayer.pdb
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\bin\Debug\GHCLEntityLayer.dll
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\bin\Debug\GHCLEntityLayer.pdb
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.csproj.CopyComplete
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.dll
+F:\MyWorkGHCL\GHCLWebApi\GHCLDataAccessLayer\obj\Debug\GHCLDataAccessLayer.pdb

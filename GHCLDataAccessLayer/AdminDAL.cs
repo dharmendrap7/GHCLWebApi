@@ -2621,13 +2621,14 @@ namespace GHCLDataAccessLayer
         /// Getting Monthly Report Card Zone Reports - Dharmendra19102019
         /// </summary>
         /// <returns></returns>
-        public List<MonthlyReportCardZone> GetMonthlyReportCardZoneReports(int Year, int Month)
+        public List<MonthlyReportCardZone> GetMonthlyReportCardZoneReports(int Month)
         {
             DataSet dsMonthlyReportCardZoneReport = null;
             List<MonthlyReportCardZone> ObjMonthlyReportCardZoneList = new List<MonthlyReportCardZone>();
             try
             {
                 int Day = 1;
+                int Year = DateTime.Now.Year;
                 if (Month == 01 || Month == 03 || Month == 05 || Month == 07 || Month == 08 || Month == 10 || Month == 12)
                 {
                     Day = 31;
@@ -2804,13 +2805,14 @@ namespace GHCLDataAccessLayer
         /// Getting Monthly Report Card Area Head Reports - Dharmendra11112019
         /// </summary>
         /// <returns></returns>
-        public List<MonthlyReportCardAreaHead> GetMonthlyReportCardAreaHeadReports(int Year, int Month)
+        public List<MonthlyReportCardAreaHead> GetMonthlyReportCardAreaHeadReports(int Month)
         {
             DataSet dsMonthlyReportCardAreaHeadReport = null;
             List<MonthlyReportCardAreaHead> ObjMonthlyReportCardAreaHeadList = new List<MonthlyReportCardAreaHead>();
             try
             {
                 int Day = 1;
+                int Year = DateTime.Now.Year;
                 if (Month == 01 || Month == 03 || Month == 05 || Month == 07 || Month == 08 || Month == 10 || Month == 12)
                 {
                     Day = 31;
@@ -2991,13 +2993,14 @@ namespace GHCLDataAccessLayer
         /// Getting Monthly Report Card SO Reports - Dharmendra11112019
         /// </summary>
         /// <returns></returns>
-        public List<MonthlyReportCardSO> GetMonthlyReportCardSOReports(int Year, int Month)
+        public List<MonthlyReportCardSO> GetMonthlyReportCardSOReports(int Month)
         {
             DataSet dsMonthlyReportCardSOReport = null;
             List<MonthlyReportCardSO> ObjMonthlyReportCardSOList = new List<MonthlyReportCardSO>();
             try
             {
                 int Day = 1;
+                int Year = DateTime.Now.Year;
                 if (Month == 01 || Month == 03 || Month == 05 || Month == 07 || Month == 08 || Month == 10 || Month == 12)
                 {
                     Day = 31;

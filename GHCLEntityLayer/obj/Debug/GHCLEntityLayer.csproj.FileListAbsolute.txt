@@ -8,3 +8,9 @@ F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.pdb
 F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.csproj.CoreCompileInputs.cache
 F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.dll
 F:\ghclmaster\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.pdb
+F:\MyWorkGHCL\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.dll
+F:\MyWorkGHCL\GHCLWebApi\GHCLEntityLayer\bin\Debug\GHCLEntityLayer.pdb
+F:\MyWorkGHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.csproj.CoreCompileInputs.cache
+F:\MyWorkGHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.dll
+F:\MyWorkGHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.pdb
+F:\MyWorkGHCL\GHCLWebApi\GHCLEntityLayer\obj\Debug\GHCLEntityLayer.csprojAssemblyReference.cache

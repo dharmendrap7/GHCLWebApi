@@ -18,12 +18,12 @@ namespace GHCLWebApiService.Controllers
         /// To get Monthly Report Card Area Head.
         /// </summary>
         /// <returns></returns>
-        public HttpResponseMessage Get(int Year, int Month)
+        public HttpResponseMessage Get(int Month)
         {
             try
             {
                 adminDAL = new AdminDAL();
-                var monthlyReportCardAreaHeadReport = adminDAL.GetMonthlyReportCardAreaHeadReports(Year, Month);
+                var monthlyReportCardAreaHeadReport = adminDAL.GetMonthlyReportCardAreaHeadReports(Month);
                 var message = Request.CreateResponse(HttpStatusCode.OK, monthlyReportCardAreaHeadReport);
                 return message;
             }
